@@ -1,0 +1,32 @@
+div{
+    border: 4px;
+    border-radius: 20px ;
+    border-style: solid;
+    border-color:black;
+    box-shadow:  0 0 60px rgba(255, 0, 0, 0.2);
+    background-color: black;
+    
+    font-size: medium;
+    font-style: italic;
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+    .movie-box{
+     box-shadow: 0  0 20px red;
+}
+   .p1{display: inline;
+       margin: 20px;
+       border: 1px;
+    border-radius: 5px ;
+    border-style: solid;
+    background-color: red;
+    border-color:black;
+    
+    
+    
+}
+   .p1:hover{background-color: greenyellow;
+
+   }
